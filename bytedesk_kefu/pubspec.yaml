@@ -37,7 +37,7 @@ dependencies:
   sp_util: ^2.0.3
   # 图片选择插件
   # https://pub.dev/packages/image_picker
-  image_picker: ^0.8.5
+  image_picker: 0.8.5
   # image_picker在选择视频的时候有bug，选此替代 https://pub.dev/packages/file_picker
   #  file_picker: ^4.5.1
   # https://pub.dev/packages/protobuf
@@ -93,7 +93,7 @@ dependencies:
   # # https://pub.dev/packages/carousel_slider
   carousel_slider: ^4.1.1
   # # https://pub.dev/packages/flutter_chat_ui
-  flutter_chat_ui: ^1.5.3
+  flutter_chat_ui: 1.5.3
   # 录音
   # flutter_sound: ^9.2.12
   # flutter_sound_platform_interface: ^9.2.12
